@@ -1,6 +1,6 @@
 # VS Code
 
-## Shortcuts
+## Useful Shortcuts
 
 ### Terminal
 
@@ -22,4 +22,4 @@ add to keyboard shortcut file:
 }
 ```
 
-- Toggle panel: <kbd>⌘</kbd><kbd>j<kbd>
+- Toggle panel: <kbd>⌘</kbd><kbd>j</kbd>
