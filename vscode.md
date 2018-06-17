@@ -7,6 +7,8 @@
 - Toggle terminal: <kbd>⌃</kbd><kbd>`</kbd>
 - Switch focus between active editor group and terminal: <kbd>⌃</kbd><kbd>`</kbd>
 
+add to keyboard shortcut file:
+
 ```json
 {
   "key": "ctrl+`",
@@ -19,3 +21,5 @@
   "when": "terminalFocus"
 }
 ```
+
+- Toggle panel: <kbd>⌘</kbd><kbd>j<kbd>
