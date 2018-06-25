@@ -23,3 +23,16 @@ add to keyboard shortcut file:
 ```
 
 - Toggle panel: <kbd>⌘</kbd><kbd>j</kbd>
+
+### File navigation:
+
+- Focus on file explorer: <kbd>⌘</kbd><kbd>e</kbd> 
+
+```json
+{
+  "key": "cmd+e",
+  "command": "workbench.files.action.focusFilesExplorer"
+}
+```
+
+- Then use arrow keys or hjkl to navigate
