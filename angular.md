@@ -16,6 +16,8 @@
 - ES6 module syntax is very static, can work alongside a rich dynamic, programmatic loader API.
 - need a compiler
  
-[JavaScript Modules vs. NgModules](https://angular.io/guide/ngmodule-vs-jsmodule#javascript-modules-vs-ngmodules)
+### [JavaScript Modules vs. NgModules](https://angular.io/guide/ngmodule-vs-jsmodule#javascript-modules-vs-ngmodules)
 
+### [Frequently Used Modules](https://angular.io/guide/frequent-ngmodules)
 
+### [https://angular.io/guide/feature-modules](https://angular.io/guide/feature-modules)
