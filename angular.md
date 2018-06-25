@@ -7,8 +7,15 @@
 - `import {detectCats, Kittydar} from "kittydar.js";`
 - export list: `export {i1, i2}`
 - renaming: `{xx as XX}`
-
-
+- default
+	- import without {}: equivalent of `var x = require("X");`
+	- `export default ...`
+- module object: `import * as cows from "cows";`, then `cows.moo()`
+- aggregating modules(main module): `export ... from ...;`, doesn't add re-exported bindings to your scope
+- bundle all your modules into a single file to ship them: webpack etc.
+- ES6 module syntax is very static, can work alongside a rich dynamic, programmatic loader API.
+- need a compiler
+ 
 [JavaScript Modules vs. NgModules](https://angular.io/guide/ngmodule-vs-jsmodule#javascript-modules-vs-ngmodules)
 
 
