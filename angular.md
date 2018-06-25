@@ -20,4 +20,4 @@
 
 ### [Frequently Used Modules](https://angular.io/guide/frequent-ngmodules)
 
-### [Feature Modules](https://angular.io/guide/feature-modules](https://angular.io/guide/feature-modules)
+### [Feature Modules](https://angular.io/guide/feature-modules)
