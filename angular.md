@@ -18,6 +18,25 @@
  
 ### [JavaScript Modules vs. NgModules](https://angular.io/guide/ngmodule-vs-jsmodule#javascript-modules-vs-ngmodules)
 
+- use declarable class only 
+- list member classes in @NgModule.declarations
+- only export declarable classes
+
+
+### [Bootstrapping](https://angular.io/guide/bootstrapping)
+
+- declarations
+
+```typescript
+declarations: [
+  YourComponent,
+  YourPipe,
+  YourDirective
+],
+```
+
 ### [Frequently Used Modules](https://angular.io/guide/frequent-ngmodules)
+
+
 
 ### [Feature Modules](https://angular.io/guide/feature-modules)
