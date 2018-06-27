@@ -40,3 +40,10 @@ declarations: [
 
 
 ### [Feature Modules](https://angular.io/guide/feature-modules)
+
+### [Types of Feature Modules](https://angular.io/guide/module-types)
+
+### [Routing & Navigation](https://angular.io/guide/router)
+
+### [Lazy Loading Feature Modules](https://angular.io/guide/lazy-loading-ngmodules)
+	
